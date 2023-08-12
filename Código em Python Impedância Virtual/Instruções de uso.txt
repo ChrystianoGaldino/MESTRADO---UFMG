@@ -1,0 +1,1 @@
+Para utilizar o código em Python contendo a impedância virtual basta rodar o código utilizando um programa como o Visual Studio Code ou outro capaz de rodar arquivos em Python. Devem ser configurados no código o tempo emulação da impedância e os valores de R e L da mesma. Para visualizar os gráficos gerados pode ser utilizado script em Matlab em anexo.
