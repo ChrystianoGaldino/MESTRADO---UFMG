@@ -1,0 +1,16 @@
+rede :  Grid
+s:  grid123456
+
+
+
+Endereço de IP:	
+192.168.1.1
+
+Máscara de sub-rede:
+255.255.255.0
+
+
+senha do roteador
+
+L:admin
+S:admin
